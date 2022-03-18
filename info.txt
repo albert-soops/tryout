@@ -1,4 +1,1 @@
-Uhh gaat het nou automatisch dankzij de ssh key????
-
-Dit is een aanpassing, waarbij ik de keys verschoven heb.
-
+Pull werkt nu 
